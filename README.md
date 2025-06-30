@@ -1,6 +1,6 @@
 # Urban Company
 
-This is a clone of *www.urbancompany.com* website. Urban Company is Asia’s largest online home services platform. The platform helps customers book reliable & high-quality services — beauty treatments, massages, haircuts, home cleaning, handymen, appliance repair, painting, pest control, and more.
+This is a clone of Urban Company website. Urban Company is Asia’s largest online home services platform. The platform helps customers book reliable & high-quality services — beauty treatments, massages, haircuts, home cleaning, handymen, appliance repair, painting, pest control, and more.
 
 <hr/>
 
@@ -43,20 +43,6 @@ git push origin <branch_name>
 ```
 git pull origin <branch_name>
 ```
-
-- Dependencies used:
-    - cors: ^2.8.5,
-    - express: ^4.17.1,
-    - mongoose: ^5.11.15,
-    - nodemon: ^2.0.12,
-    - react: ^17.0.2,
-    - react-dom: ^^17.0.2,
-    - react-scripts: "4.0.3,
-   
-
-
-
-
 
 ### Webpages along with its features
 
