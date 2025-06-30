@@ -4,8 +4,6 @@ This is a clone of *www.urbancompany.com* website. Urban Company is Asia’s lar
 
 <hr/>
 
-<hr/>
-
 ### Tech-stack
 
 - Front-end: HTML, CSS, JS,React <br/>
